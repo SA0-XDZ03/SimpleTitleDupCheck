@@ -1,0 +1,787 @@
+- "The Art of Intrusion: The Real Stories Behind the Exploits of Hackers, Intruders and Deceivers" by Kevin Mitnick and William L. Simon. -->  the art of intrusion the real stories behind the exploits of hackers intruders and deceivers by kevin mitnick and william l simon
+- "The Art of Deception: Controlling the Human Element of Security" by Kevin Mitnick and William L. Simon. -->  the art of deception controlling the human element of security by kevin mitnick and william l simon
+- "Hacking Exposed" series by Stuart McClure, Joel Scambray, and George Kurtz. -->  hacking exposed series by stuart mcclure joel scambray and george kurtz
+- "Metasploit: The Penetration Tester's Guide" by David Kennedy, Jim O'Gorman, Devon Kearns, and Mati Aharoni. -->  metasploit the penetration testers guide by david kennedy jim ogorman devon kearns and mati aharoni
+- "Black Hat Python: Python Programming for Hackers and Pentesters" by Justin Seitz. -->  black hat python python programming for hackers and pentesters by justin seitz
+- "Practical Packet Analysis: Using Wireshark to Solve Real-World Network Problems" by Chris Sanders. -->  practical packet analysis using wireshark to solve realworld network problems by chris sanders
+- "Web Application Hacker's Handbook: Finding and Exploiting Security Flaws" by Dafydd Stuttard and Marcus Pinto. -->  web application hackers handbook finding and exploiting security flaws by dafydd stuttard and marcus pinto
+- "Silence on the Wire: A Field Guide to Passive Reconnaissance and Indirect Attacks" by Michal Zalewski. -->  silence on the wire a field guide to passive reconnaissance and indirect attacks by michal zalewski
+- "The Shellcoder's Handbook: Discovering and Exploiting Security Holes" by Chris Anley, John Heasman, Felix Lindner, and Gerardo Richarte. -->  the shellcoders handbook discovering and exploiting security holes by chris anley john heasman felix lindner and gerardo richarte
+- "Penetration Testing: A Hands-On Introduction to Hacking" by Georgia Weidman. -->  penetration testing a handson introduction to hacking by georgia weidman
+- "Red Team Field Manual" by Ben Clark. -->  red team field manual by ben clark
+- "Blue Team Handbook: SOC, SIEM, and Threat Hunting" by Don Murdoch. -->  blue team handbook soc siem and threat hunting by don murdoch
+- "Nmap Network Scanning: The Official Nmap Project Guide to Network Discovery and Security Scanning" by Gordon Fyodor Lyon. -->  nmap network scanning the official nmap project guide to network discovery and security scanning by gordon fyodor lyon
+- "Applied Cryptography: Protocols, Algorithms, and Source Code in C" by Bruce Schneier. -->  applied cryptography protocols algorithms and source code in c by bruce schneier
+- "Gray Hat Hacking: The Ethical Hacker's Handbook" by Allen Harper, Daniel Regalado, Ryan Linn, Stephen Sims, and Branko Spasojevic. -->  gray hat hacking the ethical hackers handbook by allen harper daniel regalado ryan linn stephen sims and branko spasojevic
+- "The Basics of Hacking and Penetration Testing: Ethical Hacking and Penetration Testing Made Easy" by Patrick Engebretson. -->  the basics of hacking and penetration testing ethical hacking and penetration testing made easy by patrick engebretson
+- "The Tangled Web: A Guide to Securing Modern Web Applications" by Michal Zalewski. -->  the tangled web a guide to securing modern web applications by michal zalewski
+- "Cryptography Engineering: Design Principles and Practical Applications" by Niels Ferguson, Bruce Schneier, and Tadayoshi Kohno. -->  cryptography engineering design principles and practical applications by niels ferguson bruce schneier and tadayoshi kohno
+- "Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software" by Michael Sikorski and Andrew Honig. -->  practical malware analysis the handson guide to dissecting malicious software by michael sikorski and andrew honig
+- "Information Security: Principles and Practice" by Mark Stamp. -->  information security principles and practice by mark stamp
+- "CISSP All-in-One Exam Guide" by Shon Harris. -->  cissp allinone exam guide by shon harris
+- "Security Engineering: A Guide to Building Dependable Distributed Systems" by Ross Anderson. -->  security engineering a guide to building dependable distributed systems by ross anderson
+- "The Practice of Network Security Monitoring: Understanding Incident Detection and Response" by Richard Bejtlich. -->  the practice of network security monitoring understanding incident detection and response by richard bejtlich
+- "Threat Modeling: Designing for Security" by Adam Shostack. -->  threat modeling designing for security by adam shostack
+- "The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win" by Gene Kim, Kevin Behr, and George Spafford. -->  the phoenix project a novel about it devops and helping your business win by gene kim kevin behr and george spafford
+- Open Source Intelligence Techniques: Resources for Searching and Analyzing Online Information by Michael Bazzell -->  open source intelligence techniques resources for searching and analyzing online information by michael bazzell
+- The Complete Guide to OSINT: The Easy Way to Find Information, Overcome Privacy, and Protect Yourself by Hakeem Adeyemo -->  the complete guide to osint the easy way to find information overcome privacy and protect yourself by hakeem adeyemo
+- Footprinting of Information Systems: A Hacker's Approach by Sudhanshu Chauhan -->  footprinting of information systems a hackers approach by sudhanshu chauhan
+- Cyber Warfare â€“ Truth, Tactics, and Strategies: Strategic concepts and truths to help you and your organization survive on the battleground of cyber warfare by Dr. Chase Cunningham -->  cyber warfare â truth tactics and strategies strategic concepts and truths to help you and your organization survive on the battleground of cyber warfare by dr chase cunningham
+- OSINT: Developments, Issues and Opportunities by Gini Graham Scott -->  osint developments issues and opportunities by gini graham scott
+- The Tao of Open Source Intelligence by Stewart Bertram -->  the tao of open source intelligence by stewart bertram
+- Cybersecurity â€“ Attack and Defense Strategies: Infrastructure security with Red Team and Blue Team tactics by Yuri Diogenes and Erdal Ozkaya -->  cybersecurity â attack and defense strategies infrastructure security with red team and blue team tactics by yuri diogenes and erdal ozkaya
+- The Art of Deception: Controlling the Human Element of Security by Kevin Mitnick -->  the art of deception controlling the human element of security by kevin mitnick
+- Hacking Exposed: Network Security Secrets & Solutions by Stuart McClure, Joel Scambray, and George Kurtz -->  hacking exposed network security secrets  solutions by stuart mcclure joel scambray and george kurtz
+- The Basics of Hacking and Penetration Testing: Ethical Hacking and Penetration Testing Made Easy by Patrick Engebretson -->  the basics of hacking and penetration testing ethical hacking and penetration testing made easy by patrick engebretson
+- Footprinting and Reconnaissance: Scoping Out the Target by EC-Council -->  footprinting and reconnaissance scoping out the target by eccouncil
+- Information Security Fundamentals by Thomas R. Peltier -->  information security fundamentals by thomas r peltier
+- Network Footprinting: Detecting System Intrusions by Neal Krawetz -->  network footprinting detecting system intrusions by neal krawetz
+- Cyber Intelligence: The Comprehensive Guide to Gathering, Analyzing, and Using Intelligence to Cyber Warfare by Chris Kubecka -->  cyber intelligence the comprehensive guide to gathering analyzing and using intelligence to cyber warfare by chris kubecka
+- Red Team Field Manual by Ben Clark -->  red team field manual by ben clark
+- The Hacker Playbook: Practical Guide To Penetration Testing by Peter Kim -->  the hacker playbook practical guide to penetration testing by peter kim
+- OSINT 2.0: Guidelines for Using Open Source Intelligence for Investigations by Arik Johnson -->  osint 20 guidelines for using open source intelligence for investigations by arik johnson
+- The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws by Dafydd Stuttard and Marcus Pinto -->  the web application hackers handbook finding and exploiting security flaws by dafydd stuttard and marcus pinto
+- Hacking the Hacker: Learn From the Experts Who Take Down Hackers by Roger A. Grimes -->  hacking the hacker learn from the experts who take down hackers by roger a grimes
+- The OSINT Playbook: The Ultimate Guide to Open-Source Intelligence Gathering by Justin Seitz -->  the osint playbook the ultimate guide to opensource intelligence gathering by justin seitz
+- Social Engineering: The Art of Human Hacking by Christopher Hadnagy -->  social engineering the art of human hacking by christopher hadnagy
+- Malware Analyst's Cookbook and DVD: Tools and Techniques for Fighting Malicious Code by Michael Hale Ligh, Steven Adair, Blake Hartstein, and Matthew Richard -->  malware analysts cookbook and dvd tools and techniques for fighting malicious code by michael hale ligh steven adair blake hartstein and matthew richard
+- Metasploit: The Penetration Tester's Guide by David Kennedy, Jim O'Gorman, Devon Kearns, and Mati Aharoni -->  metasploit the penetration testers guide by david kennedy jim ogorman devon kearns and mati aharoni
+- The Hacker and the State: Cyber Attacks and the New Normal of Geopolitics by Ben Buchanan -->  the hacker and the state cyber attacks and the new normal of geopolitics by ben buchanan
+- The CERT Guide to Insider Threats: How to Prevent, Detect, and Respond to Information Technology Crimes (Theft, Sabotage, Fraud) by Dawn Cappelli, Andrew P. Moore, and Randall F. Trzeciak -->  the cert guide to insider threats how to prevent detect and respond to information technology crimes theft sabotage fraud by dawn cappelli andrew p moore and randall f trzeciak
+- "Practical Malware Analysis" by Michael Sikorski and Andrew Honig -->  practical malware analysis by michael sikorski and andrew honig
+- "The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory" by Michael Hale Ligh, Andrew Case, Jamie Levy, and Aaron Walters -->  the art of memory forensics detecting malware and threats in windows linux and mac memory by michael hale ligh andrew case jamie levy and aaron walters
+- "Windows Forensic Analysis Toolkit: Advanced Analysis Techniques for Windows 10" by Harlan Carvey -->  windows forensic analysis toolkit advanced analysis techniques for windows 10 by harlan carvey
+- "Digital Forensics with Open Source Tools" by Cory Altheide and Harlan Carvey -->  digital forensics with open source tools by cory altheide and harlan carvey
+- "Incident Response & Computer Forensics, Third Edition" by Jason T. Luttgens, Matthew Pepe, and Kevin Mandia -->  incident response  computer forensics third edition by jason t luttgens matthew pepe and kevin mandia
+- "The Incident Response Pocket Guide" by N. Dave Williams and Benjamin Wright -->  the incident response pocket guide by n dave williams and benjamin wright
+- "The Basics of Digital Forensics: The Primer for Getting Started in Digital Forensics" by John Sammons -->  the basics of digital forensics the primer for getting started in digital forensics by john sammons
+- "Malware Forensics Field Guide for Linux Systems: Digital Forensics Field Guides" by Cameron H. Malin, Eoghan Casey, and James M. Aquilina -->  malware forensics field guide for linux systems digital forensics field guides by cameron h malin eoghan casey and james m aquilina
+- "File System Forensic Analysis" by Brian Carrier -->  file system forensic analysis by brian carrier
+- "Black Hat Python: Python Programming for Hackers and Pentesters" by Justin Seitz -->  black hat python python programming for hackers and pentesters by justin seitz
+- "Python Forensics: A Workbench for Inventing and Sharing Digital Forensic Technology" by Chet Hosmer -->  python forensics a workbench for inventing and sharing digital forensic technology by chet hosmer
+- "The IDA Pro Book: The Unofficial Guide to the World's Most Popular Disassembler" by Chris Eagle -->  the ida pro book the unofficial guide to the worlds most popular disassembler by chris eagle
+- "Gray Hat Python: Python Programming for Hackers and Reverse Engineers" by Justin Seitz -->  gray hat python python programming for hackers and reverse engineers by justin seitz
+- "The Rootkit Arsenal: Escape and Evasion in the Dark Corners of the System" by Bill Blunden -->  the rootkit arsenal escape and evasion in the dark corners of the system by bill blunden
+- "Hacking Exposed 7: Network Security Secrets and Solutions" by Stuart McClure, Joel Scambray, and George Kurtz -->  hacking exposed 7 network security secrets and solutions by stuart mcclure joel scambray and george kurtz
+- "Practical Packet Analysis: Using Wireshark to Solve Real-World Network Problems" by Chris Sanders -->  practical packet analysis using wireshark to solve realworld network problems by chris sanders
+- "A Guide to Kernel Exploitation: Attacking the Core" by Enrico Perla and Massimiliano Oldani -->  a guide to kernel exploitation attacking the core by enrico perla and massimiliano oldani
+- "The Shellcoder's Handbook: Discovering and Exploiting Security Holes" by Chris Anley, John Heasman, Felix Lindner, and Gerardo Richarte -->  the shellcoders handbook discovering and exploiting security holes by chris anley john heasman felix lindner and gerardo richarte
+- "Rootkits: Subverting the Windows Kernel" by Greg Hoglund and James Butler -->  rootkits subverting the windows kernel by greg hoglund and james butler
+- "The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws" by Dafydd Stuttard and Marcus Pinto -->  the web application hackers handbook finding and exploiting security flaws by dafydd stuttard and marcus pinto
+- "Metasploit: The Penetration Tester's Guide" by David Kennedy, Jim O'Gorman, Devon Kearns, and Mati Aharoni -->  metasploit the penetration testers guide by david kennedy jim ogorman devon kearns and mati aharoni
+- "Black Hat Go: Go Programming For Hackers and Pentesters" by Tom Steele, Chris Patten, and Dan Kottmann -->  black hat go go programming for hackers and pentesters by tom steele chris patten and dan kottmann
+- "The Malware Analyst's Cookbook and DVD: Tools and Techniques for Fighting Malicious Code" by Michael Hale Ligh, Steven Adair, Blake Hartstein, and Matthew Richard -->  the malware analysts cookbook and dvd tools and techniques for fighting malicious code by michael hale ligh steven adair blake hartstein and matthew richard
+- "Reversing: Secrets of Reverse Engineering" by Eldad Eilam -->  reversing secrets of reverse engineering by eldad eilam
+- "The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities" by Mark Dowd, John McDonald, and Justin Schuh -->  the art of software security assessment identifying and preventing software vulnerabilities by mark dowd john mcdonald and justin schuh
+- "The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws" by Dafydd Stuttard and Marcus Pinto -->  the web application hackers handbook finding and exploiting security flaws by dafydd stuttard and marcus pinto
+- "Metasploit: The Penetration Tester's Guide" by David Kennedy, Jim O'Gorman, Devon Kearns, and Mati Aharoni -->  metasploit the penetration testers guide by david kennedy jim ogorman devon kearns and mati aharoni
+- "Black Hat Python: Python Programming for Hackers and Pentesters" by Justin Seitz -->  black hat python python programming for hackers and pentesters by justin seitz
+- "The Hacker Playbook 3: Practical Guide To Penetration Testing" by Peter Kim -->  the hacker playbook 3 practical guide to penetration testing by peter kim
+- "Applied Network Security Monitoring: Collection, Detection, and Analysis" by Chris Sanders -->  applied network security monitoring collection detection and analysis by chris sanders
+- "Network Forensics: Tracking Hackers Through Cyberspace" by Sherri Davidoff and Jonathan Ham -->  network forensics tracking hackers through cyberspace by sherri davidoff and jonathan ham
+- "Hacking: The Art of Exploitation" by Jon Erickson -->  hacking the art of exploitation by jon erickson
+- "Practical Packet Analysis: Using Wireshark to Solve Real-World Network Problems" by Chris Sanders -->  practical packet analysis using wireshark to solve realworld network problems by chris sanders
+- "Linux Command Line and Shell Scripting Bible" by Richard Blum and Christine Bresnahan -->  linux command line and shell scripting bible by richard blum and christine bresnahan
+- "Windows Internals, Part 1: System architecture, processes, threads, memory management, and more" by Pavel Yosifovich, Mark Russinovich, David A. Solomon, and Alex Ionescu -->  windows internals part 1 system architecture processes threads memory management and more by pavel yosifovich mark russinovich david a solomon and alex ionescu
+- "Windows Internals, Part 2: System services, security, and forensic analysis" by Pavel Yosifovich, Mark Russinovich, David A. Solomon, and Alex Ionescu -->  windows internals part 2 system services security and forensic analysis by pavel yosifovich mark russinovich david a solomon and alex ionescu
+- "The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory" by Michael Hale Ligh, Andrew Case, Jamie Levy, and AAron Walters -->  the art of memory forensics detecting malware and threats in windows linux and mac memory by michael hale ligh andrew case jamie levy and aaron walters
+- "Learning Linux Binary Analysis" by Ryan "elfmaster" O'Neill -->  learning linux binary analysis by ryan elfmaster oneill
+- "Reversing: Secrets of Reverse Engineering" by Eldad Eilam -->  reversing secrets of reverse engineering by eldad eilam
+- "Gray Hat Python: Python Programming for Hackers and Reverse Engineers" by Justin Seitz -->  gray hat python python programming for hackers and reverse engineers by justin seitz
+- "Python Crash Course: A Hands-On, Project-Based Introduction to Programming" by Eric Matthes -->  python crash course a handson projectbased introduction to programming by eric matthes
+- "Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers" by TJ O'Connor -->  violent python a cookbook for hackers forensic analysts penetration testers and security engineers by tj oconnor
+- "Black Hat Go: Go Programming For Hackers and Pentesters" by Tom Steele, Chris Patten, and Dan Kottmann -->  black hat go go programming for hackers and pentesters by tom steele chris patten and dan kottmann
+- "Mastering Kali Linux for Advanced Penetration Testing" by Vijay Kumar Velu and Robert W. Beggs -->  mastering kali linux for advanced penetration testing by vijay kumar velu and robert w beggs
+- "Kali Linux Revealed: Mastering the Penetration Testing Distribution" by Raphael Hertzog, Jim O'Gorman, and Mati Aharoni -->  kali linux revealed mastering the penetration testing distribution by raphael hertzog jim ogorman and mati aharoni
+- "Windows PowerShell in Action" by Bruce Payette -->  windows powershell in action by bruce payette
+- "Windows PowerShell Cookbook: The Complete Guide to Scripting Microsoft's Command Shell" by Lee Holmes -->  windows powershell cookbook the complete guide to scripting microsofts command shell by lee holmes
+- "Learn Windows PowerShell in a Month of Lunches" by Don Jones and Jeffery Hicks -->  learn windows powershell in a month of lunches by don jones and jeffery hicks
+- "PowerShell Scripting in Windows Server" by Thomas Lee -->  powershell scripting in windows server by thomas lee
+- "The Linux Command Line: A Complete Introduction" by William E. Shotts Jr. -->  the linux command line a complete introduction by william e shotts jr
+- "Linux Pocket Guide: Essential Commands" by Daniel J. Barrett -->  linux pocket guide essential commands by daniel j barrett
+- "Automate the Boring Stuff with Python: Practical Programming for Total Beginners" by Al Sweigart -->  automate the boring stuff with python practical programming for total beginners by al sweigart
+- "Learning Python, 5th Edition" by Mark Lutz -->  learning python 5th edition by mark lutz
+- "Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython -->  python for data analysis data wrangling with pandas numpy and ipython
+- "Mastering Python Networking: Your one-stop solution to using Python for network automation, DevOps, and SDN" by Eric Chou -->  mastering python networking your onestop solution to using python for network automation devops and sdn by eric chou
+- "Black Hat Go: Go Programming For Hackers and Pentesters" by Tom Steele, Chris Patten, and Dan Kottmann -->  black hat go go programming for hackers and pentesters by tom steele chris patten and dan kottmann
+- "Advanced Python Programming" by Dave Kuhlman -->  advanced python programming by dave kuhlman
+- "Linux System Administration: A Practical Guide to Linux Commands, Editors, and Shell Programming" by Jason Cannon -->  linux system administration a practical guide to linux commands editors and shell programming by jason cannon
+- "Linux Kernel Development" by Robert Love -->  linux kernel development by robert love
+- "Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software" by Michael Sikorski and Andrew Honig -->  practical malware analysis the handson guide to dissecting malicious software by michael sikorski and andrew honig
+- "The Shellcoder's Handbook: Discovering and Exploiting Security Holes" by Chris Anley, John Heasman, Felix Lindner, and Gerardo Richarte -->  the shellcoders handbook discovering and exploiting security holes by chris anley john heasman felix lindner and gerardo richarte
+- "Rootkits and Bootkits: Reversing Modern Malware and Next Generation Threats" by Alex Matrosov, Eugene Rodionov, and Sergey Bratus -->  rootkits and bootkits reversing modern malware and next generation threats by alex matrosov eugene rodionov and sergey bratus
+- "Hacker's Delight" by Henry S. Warren Jr. -->  hackers delight by henry s warren jr
+- "The IDA Pro Book: The Unofficial Guide to the World's Most Popular Disassembler" by Chris Eagle -->  the ida pro book the unofficial guide to the worlds most popular disassembler by chris eagle
+- "The Ghidra Book: The Definitive Guide" by Chris Eagle and Kara Nance -->  the ghidra book the definitive guide by chris eagle and kara nance
+- "Windows PowerShell in Action" by Bruce Payette -->  windows powershell in action by bruce payette
+- "Windows PowerShell Cookbook: The Complete Guide to Scripting Microsoft's Command Shell" by Lee Holmes -->  windows powershell cookbook the complete guide to scripting microsofts command shell by lee holmes
+- "Learn Windows PowerShell in a Month of Lunches" by Don Jones and Jeffery Hicks -->  learn windows powershell in a month of lunches by don jones and jeffery hicks
+- "PowerShell Scripting in Windows Server" by Thomas Lee -->  powershell scripting in windows server by thomas lee
+- "Mastering Python for Finance" by James Ma Weiming -->  mastering python for finance by james ma weiming
+- "Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow" by Sebastian Raschka and Vahid Mirjalili -->  python machine learning machine learning and deep learning with python scikitlearn and tensorflow by sebastian raschka and vahid mirjalili
+- "Black Hat Go: Go Programming for Hackers and Pentesters" by Tom Steele, Chris Patten, and Dan Kottmann -->  black hat go go programming for hackers and pentesters by tom steele chris patten and dan kottmann
+- "Real-World Bug Hunting: A Field Guide to Web Hacking" by Peter Yaworski -->  realworld bug hunting a field guide to web hacking by peter yaworski
+- "The Tangled Web: A Guide to Securing Modern Web Applications" by Michal Zalewski -->  the tangled web a guide to securing modern web applications by michal zalewski
+- "Web Application Security: A Beginner's Guide" by Bryan Sullivan and Vincent Liu -->  web application security a beginners guide by bryan sullivan and vincent liu
+- "The Basics of Hacking and Penetration Testing: Ethical Hacking and Penetration Testing Made Easy" by Patrick Engebretson -->  the basics of hacking and penetration testing ethical hacking and penetration testing made easy by patrick engebretson
+- "Advanced Penetration Testing: Hacking the World's Most Secure Networks" by Wil Allsopp -->  advanced penetration testing hacking the worlds most secure networks by wil allsopp
+- "The Mobile Application Hacker's Handbook" by Dominic Chell and Tyrone Erasmus -->  the mobile application hackers handbook by dominic chell and tyrone erasmus
+- "Penetration Testing: A Hands-On Introduction to Hacking" by Georgia Weidman -->  penetration testing a handson introduction to hacking by georgia weidman
+- "Cybersecurity for Beginners: How to Protect Your Systems from Hackers, Malware, and Identity Theft" by Raef Meeuwisse -->  cybersecurity for beginners how to protect your systems from hackers malware and identity theft by raef meeuwisse
+- "Security Engineering: A Guide to Building Dependable Distributed Systems" by Ross J. Anderson -->  security engineering a guide to building dependable distributed systems by ross j anderson
+- "Applied Cryptography: Protocols, Algorithms, and Source Code in C" by Bruce Schneier -->  applied cryptography protocols algorithms and source code in c by bruce schneier
+- "CISSP (ISC)2 Certified Information Systems Security Professional Official Study Guide" by Mike Chapple, James Michael Stewart, and Darril Gibson -->  cissp isc2 certified information systems security professional official study guide by mike chapple james michael stewart and darril gibson
+- "Security Analysis: The Classic 1934 Edition" by Benjamin Graham and David Dodd -->  security analysis the classic 1934 edition by benjamin graham and david dodd
+- "The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography" by Simon Singh -->  the code book the science of secrecy from ancient egypt to quantum cryptography by simon singh
+- "The Art of Deception: Controlling the Human Element of Security" by Kevin D. Mitnick and William L. Simon -->  the art of deception controlling the human element of security by kevin d mitnick and william l simon
+- "The Art of Intrusion: The Real Stories Behind the Exploits of Hackers, Intruders and Deceivers" by Kevin D. Mitnick and William L. Simon -->  the art of intrusion the real stories behind the exploits of hackers intruders and deceivers by kevin d mitnick and william l simon
+- "Social Engineering: The Science of Human Hacking" by Christopher Hadnagy -->  social engineering the science of human hacking by christopher hadnagy
+- "Practical Malware Analysis: A Hands-On Guide to Dissecting Malicious Software" by Michael Sikorski and Andrew Honig -->  practical malware analysis a handson guide to dissecting malicious software by michael sikorski and andrew honig
+- "Black Hat Python: Python Programming for Hackers and Pentesters" by Justin Seitz. -->  black hat python python programming for hackers and pentesters by justin seitz
+- The Defence of the Realm: The Authorized History of MI5 -->  the defence of the realm the authorized history of mi5
+- Kim Philby: A Story of Friendship & Betrayal -->  kim philby a story of friendship  betrayal
+- MI6: The History of the Secret Intelligence Service 1909-1949 -->  mi6 the history of the secret intelligence service 19091949
+- Bots and Beasts: What Makes Machines, Animals, and People Smart -->  bots and beasts what makes machines animals and people smart
+- The Complete Book of Intelligence Tests: 500 Exercises -->  the complete book of intelligence tests 500 exercises
+- The Secret World: A History of Intelligence -->  the secret world a history of intelligence
+- Open Secrets: India's Intelligence Unveiled -->  open secrets indias intelligence unveiled
+- MI9: A History of the Secret Service for Escape and Evasion -->  mi9 a history of the secret service for escape and evasion
+- Chinese Intelligence Operations: Espionage Damage Assessment -->  chinese intelligence operations espionage damage assessment
+- Words of Intelligence: A Dictionary -->  words of intelligence a dictionary
+- Intelligence and Information Policy for National Security -->  intelligence and information policy for national security
+- Secret Intelligence: A Reader -->  secret intelligence a reader
+- IQ Tests Book-1: Boost Your Intelligence -->  iq tests book1 boost your intelligence
+- Intelligence and National Security: A Reference Handbook -->  intelligence and national security a reference handbook
+- Startegic Intelligence for American World Policy -->  startegic intelligence for american world policy
+- Psychology of Intelligence Analysis (2017) -->  psychology of intelligence analysis 2017
+- Open Secrets: The Explosive Memoirs of an Indian Intelligence Officer -->  open secrets the explosive memoirs of an indian intelligence officer
+- Intelligence Analysis Fundamentals -->  intelligence analysis fundamentals
+- Handbook of European Intelligence Cultures -->  handbook of european intelligence cultures
+- Intelligence and Espionage: Secrets and Spies -->  intelligence and espionage secrets and spies
+- Intelligence Leadership and Governance: Buiulding Effective Intelligence Communities in 21st Century -->  intelligence leadership and governance buiulding effective intelligence communities in 21st century
+- Open SOurce Intelligence Methods and Tools: A Practical Approach -->  open source intelligence methods and tools a practical approach
+- Behind the Enigma: The Authorised History of GCHQ Britian's -->  behind the enigma the authorised history of gchq britians
+- Intelligence Services in the Information Age -->  intelligence services in the information age
+- IQ Tests Book-2 Boost Your Intelligence -->  iq tests book2 boost your intelligence
+- Creating the Secret State: The Origins of the Central Intelligence Agency -->  creating the secret state the origins of the central intelligence agency
+- The Intelligence of Dogs: A Guide -->  the intelligence of dogs a guide
+- Most Secret War -->  most secret war
+- Intelligence-Driven Incident Response: Outwitting the Adversary -->  intelligencedriven incident response outwitting the adversary
+- The President's Book of Secrets: The Untold Story of WWII -->  the presidents book of secrets the untold story of wwii
+- Wilderness of Mirrors: Intrigue, Deception and the Secrets That Destroyed Two of the Cold War's Most Important Agents -->  wilderness of mirrors intrigue deception and the secrets that destroyed two of the cold wars most important agents
+- The Very Best Men: Four Who Dared: The Early Years of CIA -->  the very best men four who dared the early years of cia
+- India's External Intelligence: Secrets of Research & Analysis Wing -->  indias external intelligence secrets of research  analysis wing
+- Education, Security & Intelligence Studies -->  education security  intelligence studies
+- The Protected -->  the protected
+- Analyzing Intelligence: National Security Practitioners' Perspective -->  analyzing intelligence national security practitioners perspective
+- Dictionary of Espionage and Intelligence: Over 800 Phrases -->  dictionary of espionage and intelligence over 800 phrases
+- Architects of Intelligence: The Truth about AI from the people building it -->  architects of intelligence the truth about ai from the people building it
+- Aum Golly: Poems on Humanity by an Artificial Intelligence -->  aum golly poems on humanity by an artificial intelligence
+- The Art of Intelligence: Lessons from a Life in CIA's Clandestine Service -->  the art of intelligence lessons from a life in cias clandestine service
+- Communicating with Intelligence: Wiriting and Briefing -->  communicating with intelligence wiriting and briefing
+- Superintelligence: Paths, Dangers, Strategies -->  superintelligence paths dangers strategies
+- Social Intelligence: 3 Books in 1: Emotional Intelligence, Empath, Self-Discipline -->  social intelligence 3 books in 1 emotional intelligence empath selfdiscipline
+- The Neuroscience of Intelligence -->  the neuroscience of intelligence
+- Structured Analytic Techniques for Intelligence Analysis -->  structured analytic techniques for intelligence analysis
+- Facts and Fears: Hard Truths from a Life in Intelligence -->  facts and fears hard truths from a life in intelligence
+- Mission France: The True History of the Women of SOE -->  mission france the true history of the women of soe
+- The Glass House: How Russia's Military Intelligence Agency -->  the glass house how russias military intelligence agency
+- Silent Warfare: Understanding the World of Intelligence, 3rd Edition -->  silent warfare understanding the world of intelligence 3rd edition
+- Artificial Intelligence: A Modern Approach -->  artificial intelligence a modern approach
+- Analyzing Intelligence: Origins, Obstacles, and Innovations -->  analyzing intelligence origins obstacles and innovations
+- Capturing Jonathan Pollard: How One of the Most Notorious -->  capturing jonathan pollard how one of the most notorious
+- Artificial Whiteness: Politics and Ideology in Artificial Intelligence -->  artificial whiteness politics and ideology in artificial intelligence
+- Rebooting AI: Building Artificial Intelligence We Can Trust -->  rebooting ai building artificial intelligence we can trust
+- The Quest for C: Sir Mansfield Cumming -->  the quest for c sir mansfield cumming
+- Defend the Realm: The Authorized History of MI5 -->  defend the realm the authorized history of mi5
+- Global Intelligence: The World's Secret Services Today -->  global intelligence the worlds secret services today
+- Applied Artificial Intelligence: A Handbook for Business Leaders -->  applied artificial intelligence a handbook for business leaders
+- Critical Thinking for Strategic Intelligence -->  critical thinking for strategic intelligence
+- The Art and Science of Intelligence Analysis -->  the art and science of intelligence analysis
+- Assassins: The KGB's Poison Factory 10 Years On -->  assassins the kgbs poison factory 10 years on
+- Spycraft: The Secret History of the CIA's Spytechs, from Communism to al-Qaeda (Harold Keith Melton & Robert Wallace) -->  spycraft the secret history of the cias spytechs from communism to alqaeda harold keith melton  robert wallace
+- Intelligence: All That Matters -->  intelligence all that matters
+- Intelligence Tradecraft: Secrets of Spy Warfare -->  intelligence tradecraft secrets of spy warfare
+- The Merchant of Venice -->  the merchant of venice
+- The Walls Have Ears: The Greatest Intelligence Operation of World War II -->  the walls have ears the greatest intelligence operation of world war ii
+- Finks: How the C.I.A Tricked the World's Best Writers -->  finks how the cia tricked the worlds best writers
+- The Encyclopaedia Britannica: A Dictionary of Arts, Sciences, Literature & General Information -->  the encyclopaedia britannica a dictionary of arts sciences literature  general information
+- How We Learn: Why Brains Learn Better Than Any Medicine -->  how we learn why brains learn better than any medicine
+- Saraswati's Intelligence: The Kishkindha Chronicles -->  saraswatis intelligence the kishkindha chronicles
+- National Security and Intelligence Management: A New Paradigm -->  national security and intelligence management a new paradigm
+- 12 Rules for Life: An Antidote to Chaos -->  12 rules for life an antidote to chaos
+- D-Day Girls: The Spies Who Armed the Resistance, Sabotaged -->  dday girls the spies who armed the resistance sabotaged
+- Soviet Espionage -->  soviet espionage
+- Chinese Communist Espionage: An Intelligence Primer -->  chinese communist espionage an intelligence primer
+- A Thousand Brains: A New Theory of Intelligence -->  a thousand brains a new theory of intelligence
+- Analytic Culture in the US Intelligence Community: An Ethnographic Study -->  analytic culture in the us intelligence community an ethnographic study
+- Collaborative Intelligence: Using Teams to Solve Hard Problems -->  collaborative intelligence using teams to solve hard problems
+- Critical Thinknig and Intelligence Analysis (2011) -->  critical thinknig and intelligence analysis 2011
+- Critical Thinking for Strategc Intelligence (2016) -->  critical thinking for strategc intelligence 2016
+- Intelligence Analysis: A Target-Centric Approach (2016) -->  intelligence analysis a targetcentric approach 2016
+- Intelligence Collection (2014) -->  intelligence collection 2014
+- The Five Disciplines of Intelligence Collection (2015) -->  the five disciplines of intelligence collection 2015
+- Homeland Security Intelligence (2014) -->  homeland security intelligence 2014
+- Intelligence: From Secrets to Policy (2016) -->  intelligence from secrets to policy 2016
+- The US Intelligence Community (2015) -->  the us intelligence community 2015
+- U.S Government Counterterrorism: A Guide to Who Does What (2011) -->  us government counterterrorism a guide to who does what 2011
+- Worldwide Threat Assessment of the US Intelligence Community (2017) -->  worldwide threat assessment of the us intelligence community 2017
+- Body of Secrets: Anatomy of the Ultra-Secret National Security Agency -->  body of secrets anatomy of the ultrasecret national security agency
+- From the Shadows: The Ultimate Insider's Story of Five Presidents and How They Won the Cold War -->  from the shadows the ultimate insiders story of five presidents and how they won the cold war
+- Ghost Wars: The Secret History of the CIA, Afghanistan, and Bin Laden, from the Soviet Invasion to Sepetember 10, 2001 (2004) -->  ghost wars the secret history of the cia afghanistan and bin laden from the soviet invasion to sepetember 10 2001 2004
+- Intellgence for an Age of Terror (2011) -->  intellgence for an age of terror 2011
+- Intelligence in War: The Value and Limitations of What the Military can Learn about the Enemy (2004) -->  intelligence in war the value and limitations of what the military can learn about the enemy 2004
+- Secret Empire: Eisenhower, the CIA, and the Hidden History of America's Space Espionage -->  secret empire eisenhower the cia and the hidden history of americas space espionage
+- The Craft of Intelligence: America's Legendary Spy Master on the Fundamentals of Intelligence Gathering from a Free World (2006) -->  the craft of intelligence americas legendary spy master on the fundamentals of intelligence gathering from a free world 2006
+- The Secret State: A History of Intelligence & Espionage -->  the secret state a history of intelligence  espionage
+- Legacy of Ashes: The History of the CIA -->  legacy of ashes the history of the cia
+- Intelligence in War: Knowledge of the Enemy from Napoleon to Al-Qaeda -->  intelligence in war knowledge of the enemy from napoleon to alqaeda
+- Neuromancer -->  neuromancer
+- Flowers for Algeron -->  flowers for algeron
+- The Sword and the Shield: The Mitronkhin Archive and the Secret History of the KGB -->  the sword and the shield the mitronkhin archive and the secret history of the kgb
+- On Intelligence -->  on intelligence
+- The Assault on Intelligence: American National Security in an Age of Lies -->  the assault on intelligence american national security in an age of lies
+- The Puzzle Palace: Inside the National Security Agency, America's Most Secret Intelligence Organization -->  the puzzle palace inside the national security agency americas most secret intelligence organization
+- The Hunt for Red October -->  the hunt for red october
+- Digital Fortress -->  digital fortress
+- Rise and Kill First: The Secret History of Israel's Targeted Assassinations -->  rise and kill first the secret history of israels targeted assassinations
+- Playing to the Edge: American Intelligence in the Age of Terror -->  playing to the edge american intelligence in the age of terror
+- Out of My Mind -->  out of my mind
+- Pattern Recognition (Blue Ant, #1) -->  pattern recognition blue ant 1
+- Clear and Present Danger (Jack Ryan) -->  clear and present danger jack ryan
+- The Spy and the Traitor: The Greatest Espionage Story to the Cold War -->  the spy and the traitor the greatest espionage story to the cold war
+- The Billion Dollar Spy: A True Story of Cold War Espionage and Betrayal -->  the billion dollar spy a true story of cold war espionage and betrayal
+- Spook Country -->  spook country
+- See No Evil: The True Story of a Ground Soldier in the CIA's War on Terrorism -->  see no evil the true story of a ground soldier in the cias war on terrorism
+- The Sum of All Fears -->  the sum of all fears
+- Prey -->  prey
+- A Spy Among Friends: Kim Philby and the Great Betrayal -->  a spy among friends kim philby and the great betrayal
+- The Way of the Knife: THE CIA, a Secret Army, and a War at the Ends of the Earth -->  the way of the knife the cia a secret army and a war at the ends of the earth
+- Gideon's Spies: The Secret History of Mossad -->  gideons spies the secret history of mossad
+- The Triple Agent: The al-Qaeda Mole who Infiltrated the CIA -->  the triple agent the alqaeda mole who infiltrated the cia
+- Demon Seed -->  demon seed
+- First In: An Insider's Account of How the CIA Spearheaded the War on Terror in Afghanistan -->  first in an insiders account of how the cia spearheaded the war on terror in afghanistan
+- Dragons of Eden: Speculations on the Evolution of Human Intelligence -->  dragons of eden speculations on the evolution of human intelligence
+- Godel, Escher, Bach: An Eternal Golden Braid -->  godel escher bach an eternal golden braid
+- Active Measures: The Secret History of Disinformation and Political Warfare -->  active measures the secret history of disinformation and political warfare
+- No Place to Hide: Edward Snowden, the NSA, and the US Surveillance State -->  no place to hide edward snowden the nsa and the us surveillance state
+- Emotional Intelligence: Why It Can Matter More Than -->  emotional intelligence why it can matter more than
+- Blind Man's Bluff: The Untold Story of American Submarine Espionage -->  blind mans bluff the untold story of american submarine espionage
+- Smiley's People: A George Smiley Novel -->  smileys people a george smiley novel
+- Foley: The Spy Who Saved 10,000 Jews -->  foley the spy who saved 10000 jews
+- The Human Factor -->  the human factor
+- Legacy (Alan Judd) -->  legacy alan judd
+- The Foot Soldiers: A Times Thriller of the Month -->  the foot soldiers a times thriller of the month
+- Dr.No (Ian Fleming) -->  drno ian fleming
+- A Colder War (Charles Cumming) -->  a colder war charles cumming
+- Made to be Broken: SAS Hero Turns Manchester Hitman -->  made to be broken sas hero turns manchester hitman
+- Then We Take Berlin (John Lawton) -->  then we take berlin john lawton
+- MI6 Fifty Years of Special Operations (Stephen Dorril) -->  mi6 fifty years of special operations stephen dorril
+- Berta Isla (Javier Marias) -->  berta isla javier marias
+- The Spy Who Came in from the Cold -->  the spy who came in from the cold
+- Flat Earth News: An Award-Winning Reporter Express Falsehood, Distortion and Propaganda in the Global Media -->  flat earth news an awardwinning reporter express falsehood distortion and propaganda in the global media
+- A Legacy of Spies -->  a legacy of spies
+- Our Man in Havana -->  our man in havana
+- Storm Breaker -->  storm breaker
+- A Perfect Spy (John Le Carre) -->  a perfect spy john le carre
+- Typhoon: A Novel -->  typhoon a novel
+- Casino Royale (Ian Fleming) -->  casino royale ian fleming
+- The London Restoration -->  the london restoration
+- Funeral in Berlin (Len Deighton) -->  funeral in berlin len deighton
+- The Night Manager -->  the night manager
+- The Spy Net: The Greatest Intelligence Operations of the First World War -->  the spy net the greatest intelligence operations of the first world war
+- Tinker, Tailor, Soldier, Spy: A George Smiley Novel (John Le Carre) -->  tinker tailor soldier spy a george smiley novel john le carre
+- The Mission Song (John Le Carre) -->  the mission song john le carre
+- The Great Game: The Myth and Reality of Espionage -->  the great game the myth and reality of espionage
+- The Psychology of Intelligence Analysis (Richard Heuer) -->  the psychology of intelligence analysis richard heuer
+- Asking the Right Questions: A Guide to Critical Thinking -->  asking the right questions a guide to critical thinking
+- The Secrets of Inchon -->  the secrets of inchon
+- How to Lie with Statistics -->  how to lie with statistics
+- How to Lie with Maps -->  how to lie with maps
+- Forecasting Terrorism -->  forecasting terrorism
+- Intelligence in War -->  intelligence in war
+- The Interrogators -->  the interrogators
+- Anticipating Surprise: Analysis for Strategic Warning -->  anticipating surprise analysis for strategic warning
+- Force Recon Command -->  force recon command
+- Intelligence and Military Operations (Michael Handel) -->  intelligence and military operations michael handel
+- Military Geography (John Collins) -->  military geography john collins
+- Intelligence Analysis. How to Think in Complex Environments -->  intelligence analysis how to think in complex environments
+- G2: Intelligence for Patton, Oscar Koch -->  g2 intelligence for patton oscar koch
+- Surprise Attack: The Victim's Perspective -->  surprise attack the victims perspective
+- Surprise Attack: Lessons for Defense Planning -->  surprise attack lessons for defense planning
+- The Tet Offensive: Intelligence Failure in War -->  the tet offensive intelligence failure in war
+- Who the Hell are We Fighting? The Story of Sam Adams and the Vietnam Intelligence Wars -->  who the hell are we fighting the story of sam adams and the vietnam intelligence wars
+- Secret War for the Union -->  secret war for the union
+- Deciphering the Rising Sun, Navy and Marine Corps Code Breakers, Translators, and Interpreters in the Pacific War -->  deciphering the rising sun navy and marine corps code breakers translators and interpreters in the pacific war
+- Good Hunting by Jack Devine -->  good hunting by jack devine
+- Widow Spy (Martha Peterson) -->  widow spy martha peterson
+- For the President's Eyes Only: Secret Intelligence and the American Presidency from Washington to Bush -->  for the presidents eyes only secret intelligence and the american presidency from washington to bush
+- The Agency: The Rise and Decline of the CIA -->  the agency the rise and decline of the cia
+- Honorable Men: My Life in the CIA -->  honorable men my life in the cia
+- From the Shadows: The Ulimate Insider's Story of Five Presidents and How They Won the Cold War -->  from the shadows the ulimate insiders story of five presidents and how they won the cold war
+- Gentleman Spy: The Life of Allen Dulles -->  gentleman spy the life of allen dulles
+- A Spy's Journey: A CIA Memorir (Floyd Paseman) -->  a spys journey a cia memorir floyd paseman
+- Casey: The Lives and Secrets of William J. Casey -->  casey the lives and secrets of william j casey
+- A Secret Life: The Polish Officer, His Covert Mission, and the Price He Paid to Save His Country -->  a secret life the polish officer his covert mission and the price he paid to save his country
+- Circle of Treason: A CIA Account of Traitor Aldrich Ames and the Men He Betrayed -->  circle of treason a cia account of traitor aldrich ames and the men he betrayed
+- Safe for Democracy: The Secret Wars of the CIA -->  safe for democracy the secret wars of the cia
+- Spy...for Nobody! Sixteen Years in the Syrian Intelligence -->  spyfor nobody sixteen years in the syrian intelligence
+- A Short Course in the Secret War -->  a short course in the secret war
+- The Unexpected Spy: From CIA to the FBI, My Secret Life Taking Down SOme of the World's Most Notorious Terrorists -->  the unexpected spy from cia to the fbi my secret life taking down some of the worlds most notorious terrorists
+- The Deceivers: Allied Military Deception in the Second World War -->  the deceivers allied military deception in the second world war
+- Enigma: The Battle for the Code -->  enigma the battle for the code
+- For the President's Eyes Only: Secret Intelligence & the American Presidency from Washington to Bush -->  for the presidents eyes only secret intelligence  the american presidency from washington to bush
+- The Code Book: The Evolution of Secrecy From Mary, Queen Of Scots to Quantum Cryptography -->  the code book the evolution of secrecy from mary queen of scots to quantum cryptography
+- Cloak & Gown: Scholars in the Secret War (1939-1961) -->  cloak  gown scholars in the secret war 19391961
+- The Book of Honor: The Secret Lives and Deaths of CIA Operatives -->  the book of honor the secret lives and deaths of cia operatives
+- A Spy For All Seasons: My Life in the CIA -->  a spy for all seasons my life in the cia
+- A Look Over My Shoulder: A Life in the Central Intelligence Agency -->  a look over my shoulder a life in the central intelligence agency
+- The Reader of Gentlemen's Mail: Herbert O. Yardley and the Birth of American Codebreaking -->  the reader of gentlemens mail herbert o yardley and the birth of american codebreaking
+- Spy Handler: Memoir of a KGB Officer: The True Story of the Man Who Recruited Robert Hanssen and Aldrich Ames -->  spy handler memoir of a kgb officer the true story of the man who recruited robert hanssen and aldrich ames
+- Gentleman Spy: The Life of Allen Dulles -->  gentleman spy the life of allen dulles
+- The Man Who Kept The Secrets: Richard Helms and The CIA -->  the man who kept the secrets richard helms and the cia
+- The Twilight of Democracy -->  the twilight of democracy
+- Lost Crusader: The Secret Wars of CIA Director William Colby -->  lost crusader the secret wars of cia director william colby
+- Cold Warrior: James Jesus Angleton - CIA's Master Spy Hunter -->  cold warrior james jesus angleton  cias master spy hunter
+- Argo: How the CIA and Hollywood Pulled Off The Most Audacious Rescue in the History -->  argo how the cia and hollywood pulled off the most audacious rescue in the history
+- Six Car Lengths Behind an Elephant: Undercover & Overwhelmed as a CIA Wife and Mother -->  six car lengths behind an elephant undercover  overwhelmed as a cia wife and mother
+- The Widow Spy: My CIA Journey from the Jungles of Laos to Prison in Moscow -->  the widow spy my cia journey from the jungles of laos to prison in moscow
+- Legacy of Ashes: The History of the CIA -->  legacy of ashes the history of the cia
+- Tracking the Axis Enemy: The Triumph of Anglo-American Naval Intelligence -->  tracking the axis enemy the triumph of angloamerican naval intelligence
+- Scorpions' Dance: The President, The Spymaster, and Watergate -->  scorpions dance the president the spymaster and watergate
+- Grant's Secret Service: The Intelligence War from Belmont to Appomattox -->  grants secret service the intelligence war from belmont to appomattox
+- The Secret War for the Union: The Untold Story of Military Intelligence in the Civil War -->  the secret war for the union the untold story of military intelligence in the civil war
+- The Puzzle Palace: A Report on NSA, America's Most Secret Agency -->  the puzzle palace a report on nsa americas most secret agency
+- Thwarting Enemies at Home and Abroad: How to Be a Counterintelligence Officer -->  thwarting enemies at home and abroad how to be a counterintelligence officer
+- Foreign Intelligence: Research and Analysis in the Office of Strategic Services -->  foreign intelligence research and analysis in the office of strategic services
+- The Final Months of the War with Japan: Signals Intelligence, U.S. Invasion Planning and the A-Bomb Decision -->  the final months of the war with japan signals intelligence us invasion planning and the abomb decision
+- Intelligence in the War of Independence -->  intelligence in the war of independence
+- The Civil War: Black American Contributions to Union Intelligence -->  the civil war black american contributions to union intelligence
+- Stalin's Secret War: Soviet Counterintelligence Against the Nazis -->  stalins secret war soviet counterintelligence against the nazis
+- The Central Intelligence Agency: An Instrument of Government -->  the central intelligence agency an instrument of government
+- Directors of Central Intelligence as Leaders of the U.S. Intelligence Community -->  directors of central intelligence as leaders of the us intelligence community
+- The CIA at War: Inside the Secret Campaign Against Terror -->  the cia at war inside the secret campaign against terror
+- The Central Intelligence Agency: History and Documents -->  the central intelligence agency history and documents
+- Honorable Treachery: A History of US Intelligence, Espionage & Covert Action from the American Revolution to the CIA -->  honorable treachery a history of us intelligence espionage  covert action from the american revolution to the cia
+- On the Front Lines of the Cold War: Documents on the Intelligence War in Berlin -->  on the front lines of the cold war documents on the intelligence war in berlin
+- Donovan & the CIA: A History of the Establishment of the Central Intelligence Agency -->  donovan  the cia a history of the establishment of the central intelligence agency
+- The CIA under Harry Truman -->  the cia under harry truman
+- The Office of Strategic Services: America's First Intelligence Agency -->  the office of strategic services americas first intelligence agency
+- Inside CIA's Private World: Declassified Articles from the Agency's Internal Journal -->  inside cias private world declassified articles from the agencys internal journal
+- CIA Spymaster: The Agency's Top Case Officer Who Handled Penkovsky and Popov -->  cia spymaster the agencys top case officer who handled penkovsky and popov
+- Autobiography of a Spy: Debutante, Writer, Confidante, Secret Agent. The True Story of her Extraordinary Life -->  autobiography of a spy debutante writer confidante secret agent the true story of her extraordinary life
+- CIA Life: 10,000 Days with the Agency -->  cia life 10000 days with the agency
+- China Hands: Nice Decades of Adventure, Espionage and Diplomacy in Asia -->  china hands nice decades of adventure espionage and diplomacy in asia
+- The American Agent: My Life in th CIA -->  the american agent my life in th cia
+- Spymaster: My Thirty-two years in Intelligence & Espionage against the West -->  spymaster my thirtytwo years in intelligence  espionage against the west
+- The Master of Disguise: My Secret Life in the CIA -->  the master of disguise my secret life in the cia
+- General Walter Bedell Smith as Director of Central Intelligence (1950-53) -->  general walter bedell smith as director of central intelligence 195053
+- A Spy's Journey: A CIA Memorir -->  a spys journey a cia memorir
+- Casey: The Lives & Secrets of William J. Casey from the OSS to the CIA -->  casey the lives  secrets of william j casey from the oss to the cia
+- The Night Watch -->  the night watch
+- At the Center of the Storm: My Years at the CIA -->  at the center of the storm my years at the cia
+- Secrecy and Democracy: The CIA in Transition -->  secrecy and democracy the cia in transition
+- Man Without a Face: The Autobiography of Communism's Greatest Spymaster -->  man without a face the autobiography of communisms greatest spymaster
+- Wild Rose: Rose O'Neale Greenhow, Civil War Spy -->  wild rose rose oneale greenhow civil war spy
+- A Life in Secrets: The Story of Vera Atkins and the Lost Agents of Soe -->  a life in secrets the story of vera atkins and the lost agents of soe
+- Cast No Shadow -->  cast no shadow
+- Denial and Deception: An Insider's View of the CIA from Iran-Contra to 9/11 -->  denial and deception an insiders view of the cia from irancontra to 911
+- Sisterhood of Spies: The Women of the OSS -->  sisterhood of spies the women of the oss
+- The Wolves at the Door: The True Story of America's Greatest Female Spy -->  the wolves at the door the true story of americas greatest female spy
+- Female Intelligence: Women and Espionage in the First World War -->  female intelligence women and espionage in the first world war
+- Women in the Resistance -->  women in the resistance
+- Southern Lady, Yankee Spy: The True Story of Elizabeth Van Lew, A Union Agent in the Heart of the Confederacy -->  southern lady yankee spy the true story of elizabeth van lew a union agent in the heart of the confederacy
+- Confessions of a Spy: The Real Story of Aldrich Ames -->  confessions of a spy the real story of aldrich ames
+- The Falcon and the Snowman: A True Story of Friendship and Esiponage -->  the falcon and the snowman a true story of friendship and esiponage
+- The Spy Who Got Away: The Inside Story of Edward Lee Howard, the Man who Betrayed His Country's Secrets and Escaped to Moscow -->  the spy who got away the inside story of edward lee howard the man who betrayed his countrys secrets and escaped to moscow
+- Spy: The Inside Story of How the FBI's Robert Hanssen Betrayed America -->  spy the inside story of how the fbis robert hanssen betrayed america
+- The World Was Going Our Way: The KGB & the Battle for the Third World -->  the world was going our way the kgb  the battle for the third world
+- The Main Enemy: The Inside Story of the CIA's Final Showdown with the KGB -->  the main enemy the inside story of the cias final showdown with the kgb
+- Partners at the Creation: The Men Behind Postwar Germany's Defense and Intelligence Establishments -->  partners at the creation the men behind postwar germanys defense and intelligence establishments
+- Mole - The True Story of the First Russian Spy to Become an American Counterspy -->  mole  the true story of the first russian spy to become an american counterspy
+- Battleground Berlin: CIA vs KGB in the Cold War -->  battleground berlin cia vs kgb in the cold war
+- The CIA's Secret Operations: Espionage, Counterespionage and Covert Action -->  the cias secret operations espionage counterespionage and covert action
+- The Spy Who Saved the World: How a Soviet Colonel Changed the Course of the Cold War -->  the spy who saved the world how a soviet colonel changed the course of the cold war
+- A Secret Life: The Polish Officer, His Covert Mission, and the Price He Paid to Save His Country -->  a secret life the polish officer his covert mission and the price he paid to save his country
+- Feet to the Fire: CIA Covert Operations in Indonesia 1957-58 -->  feet to the fire cia covert operations in indonesia 195758
+- CIA's Secret War in Tibet -->  cias secret war in tibet
+- Executives Secrets: Covert Action and the Presidency -->  executives secrets covert action and the presidency
+- Dirty Tricks or Trump Cards: US Covert Action and Counterintelligence -->  dirty tricks or trump cards us covert action and counterintelligence
+- Raiders of the China Coast: CIA Covert Operations During the Korean War -->  raiders of the china coast cia covert operations during the korean war
+- Facing Reality: From World Federalism to the CIA -->  facing reality from world federalism to the cia
+- Safe For Democracy: The Secret Wars of the CIA -->  safe for democracy the secret wars of the cia
+- Countercoup: The Struggle for the Control of Iran -->  countercoup the struggle for the control of iran
+- Clinton's Secret Wars: The Evolution of a Commander in Chief -->  clintons secret wars the evolution of a commander in chief
+- Operation Hotel California: The Clandestine War Inside Iraq -->  operation hotel california the clandestine war inside iraq
+- 2034: A Novel of the Next World War -->  2034 a novel of the next world war
+- Chaos Under Heaven: Trump, Xi, and the Battle for the 21st Century -->  chaos under heaven trump xi and the battle for the 21st century
+- Complexity: The Emerging Science at the Edge of Order and Chaos -->  complexity the emerging science at the edge of order and chaos
+- Destined for War: Can America and China Escape Thucydide's Trap -->  destined for war can america and china escape thucydides trap
+- Prisoners of Geography: Ten Maps that Tell You Everything You Need to Know About Global Politics -->  prisoners of geography ten maps that tell you everything you need to know about global politics
+- Shields of the Republic: The Triumph and Peril of America's Alliances -->  shields of the republic the triumph and peril of americas alliances
+- The Looting Machine -->  the looting machine
+- To Build a Better World -->  to build a better world
+- We Have Been Harmonized -->  we have been harmonized
+- The Shadow War -->  the shadow war
+- Cybersecurity: Politics, Governance and Conflict in Cyberspace -->  cybersecurity politics governance and conflict in cyberspace
+- The Cybersecurity Dilemma: Hacking, Trust, and Fear Between Nations -->  the cybersecurity dilemma hacking trust and fear between nations
+- Cyber Strategy: The Evolving Character of Power and Coercion -->  cyber strategy the evolving character of power and coercion
+- Cyber War versus Cyber Realities: Cyber Conflict in the International System -->  cyber war versus cyber realities cyber conflict in the international system
+- The Decision to Attack: Military and Intelligence Cyber Decision-Making -->  the decision to attack military and intelligence cyber decisionmaking
+- The Hacker and the State: Cyber Attacks and the New Normal of Geopolitics -->  the hacker and the state cyber attacks and the new normal of geopolitics
+- On Cyber: Towards an Operational Art for Cyber Conflict -->  on cyber towards an operational art for cyber conflict
+- Jihadists of North Africa and the Sahel -->  jihadists of north africa and the sahel
+- The Beirut Protocol -->  the beirut protocol
+- Atlas Shrugged -->  atlas shrugged
+- A Peace to End All Peace: The Fall of the Ottoman Empire and the Creation of the Modern Middle East -->  a peace to end all peace the fall of the ottoman empire and the creation of the modern middle east
+- A World Lit Only by Fire -->  a world lit only by fire
+- All The Shah's Men -->  all the shahs men
+- America and Iran: A History: 1720 to the Present -->  america and iran a history 1720 to the present
+- America: The Last Best Hope -->  america the last best hope
+- Becoming Kim Jong Un: A Former CIA Officer's Insights into North Korea's Enigmatic Young Dictator -->  becoming kim jong un a former cia officers insights into north koreas enigmatic young dictator
+- Countdown 1945 -->  countdown 1945
+- Covert Regime Change: America's Secret Cold War -->  covert regime change americas secret cold war
+- Endurance: Shackleton's Incredible Voyage -->  endurance shackletons incredible voyage
+- Fateful Triangle: How China Shaped US-India Relations during Cold War -->  fateful triangle how china shaped usindia relations during cold war
+- Intel Wars: The Secret History of the Fight Against Terror -->  intel wars the secret history of the fight against terror
+- King Leopold's Ghost -->  king leopolds ghost
+- Sandworm: A New Era of Cyberwar and the Hunt for the Kermlin's Most Dangerous Hackers -->  sandworm a new era of cyberwar and the hunt for the kermlins most dangerous hackers
+- The Secret World: A History of Intelligence -->  the secret world a history of intelligence
+- Four Hundred Souls -->  four hundred souls
+- The Light of Days: The Untold Story of Women Resistance Fighters in Hitler's Ghettos -->  the light of days the untold story of women resistance fighters in hitlers ghettos
+- I Came As a Shadow -->  i came as a shadow
+- Beyond Order: 12 More Rules for Life -->  beyond order 12 more rules for life
+- Extreme Privacy: What It Takes to Disappear -->  extreme privacy what it takes to disappear
+- Fighting Talk: Forty Maxims on War, Peace and Strategy -->  fighting talk forty maxims on war peace and strategy
+- Give and Take: A Revolutionary Approach to Success -->  give and take a revolutionary approach to success
+- Leadership in the Shadows -->  leadership in the shadows
+- Leadership is About Behaviour, Not Titles -->  leadership is about behaviour not titles
+- Necessary Endings -->  necessary endings
+- Originals: How Non-Conformists Move the World -->  originals how nonconformists move the world
+- The Book of Gutsy Women: Favourite Stories of Courage and Resilience -->  the book of gutsy women favourite stories of courage and resilience
+- The Mission, The Men and Me: Lessons from a Former Delta Force Commander -->  the mission the men and me lessons from a former delta force commander
+- Think Again: The Power of Knowing What You Don't Know -->  think again the power of knowing what you dont know
+- Women Don't Ask: Negotiation and the Gender Divide -->  women dont ask negotiation and the gender divide
+- The Heart of a Woman -->  the heart of a woman
+- Inclusive Leadership -->  inclusive leadership
+- The Five Languages of Appreciation in the Workplace -->  the five languages of appreciation in the workplace
+- Always Endeavour: A Development Guide for In Extremis Leaders -->  always endeavour a development guide for in extremis leaders
+- Be the Sun, Not the Salt -->  be the sun not the salt
+- Outliers: The Story of Success -->  outliers the story of success
+- A Passion for Leadership: Lessons on Change and Reform from Fifty Years of Public Service -->  a passion for leadership lessons on change and reform from fifty years of public service
+- It Worked for Me: In Life and Leadership -->  it worked for me in life and leadership
+- [PODCASTS] "Intrigue" Podcast - "mayday" Series -->  podcasts intrigue podcast  mayday series
+- [PODCASTS] Boss Barista -->  podcasts boss barista
+- [PODCASTS] Code Switch -->  podcasts code switch
+- [PODCASTS] Dare to Lead with Brene Brown -->  podcasts dare to lead with brene brown
+- [PODCASTS] Design Matters -->  podcasts design matters
+- [PODCASTS] DIA Connections -->  podcasts dia connections
+- [PODCASTS] Freakonomics Radio (Freakonomics) -->  podcasts freakonomics radio freakonomics
+- [PODCASTS] I Spy -->  podcasts i spy
+- [PODCASTS] Jocko Podcast -->  podcasts jocko podcast
+- [PODCASTS] Make Me Smart with Kai and Molly -->  podcasts make me smart with kai and molly
+- [PODCASTS] Planet Money -->  podcasts planet money
+- [PODCASTS] Radiolab - "What If?" -->  podcasts radiolab  what if
+- [PODCASTS] Revolution -->  podcasts revolution
+- [PODCASTS] The Deal -->  podcasts the deal
+- [PODCASTS] The Psychology Podcast: Episode with Adam Grant -->  podcasts the psychology podcast episode with adam grant
+- [PODCASTS] The Thomas Jefferson Hour -->  podcasts the thomas jefferson hour
+- [PODCASTS] Throughline -->  podcasts throughline
+- [PODCASTS] True Spies -->  podcasts true spies
+- [PODCASTS] Unlocking Us with Brene Brown -->  podcasts unlocking us with brene brown
+- [PODCASTS] WorkLife Podcast with Adam Grant, Episode: "Taken for Granted: Brene Brown on What Vulnerability Isn't" -->  podcasts worklife podcast with adam grant episode taken for granted brene brown on what vulnerability isnt
+- [PODCASTS] The Cyberwire Daily Podcast -->  podcasts the cyberwire daily podcast
+- [PODCASTS] The History of Rome -->  podcasts the history of rome
+- [PODCASTS] Hardcore History -->  podcasts hardcore history
+- [PODCASTS] The World of Intelligence, Episode 39: "Rebels in Inteligence" -->  podcasts the world of intelligence episode 39 rebels in inteligence
+- Programming Collective Intelligence -->  programming collective intelligence
+- The Defense for Duffer's Drift, Swinton (and the various knock-offs) -->  the defense for duffers drift swinton and the various knockoffs
+- Once an Eagle, Myrer -->  once an eagle myrer
+- The Bear Went Over the Mountain and/or The Other Side of the Mountain, Grau and Jalali -->  the bear went over the mountain andor the other side of the mountain grau and jalali
+- Infantry Attacks, Rommel -->  infantry attacks rommel
+- Strategic Intelligence for American World Policy -->  strategic intelligence for american world policy
+- MI Blunders and Cover-ups -->  mi blunders and coverups
+- The Army's Recce and Surveillance Handbook -->  the armys recce and surveillance handbook
+- Intelligence Wars: Lessons from Baghdad -->  intelligence wars lessons from baghdad
+- The Sling and the Stone: Stuart Herrington's Silence Was a Weapon -->  the sling and the stone stuart herringtons silence was a weapon
+- Intelligence for Frontline Units -->  intelligence for frontline units
+- Terroist Signalling and the Value of Intelligence -->  terroist signalling and the value of intelligence
+- Army Strategic Intelligence by Brian Dunmire -->  army strategic intelligence by brian dunmire
+- Don Hanle's Terrorism: The Newest Face of War -->  don hanles terrorism the newest face of war
+- Water on the Brain -->  water on the brain
+- G-2: Intelligence for Patton -->  g2 intelligence for patton
+- In the Shadow of the Sphinx -->  in the shadow of the sphinx
+- Intelligence and Military Operations by Michael Handel -->  intelligence and military operations by michael handel
+- Military Intelligence by John Patrick Finnegan -->  military intelligence by john patrick finnegan
+- Military Intelligence Blunders and Coverups -->  military intelligence blunders and coverups
+- Spies for Nimitz -->  spies for nimitz
+- Honorable Treachery -->  honorable treachery
+- Intelligence in War by John Keegan -->  intelligence in war by john keegan
+- Leaders and Intelligence -->  leaders and intelligence
+- The Service of Security and Information -->  the service of security and information
+- Fixing Intelligence by William E. Odom -->  fixing intelligence by william e odom
+- The Venona Secrets: Exposing Soviet Espionage & America's Traitors -->  the venona secrets exposing soviet espionage  americas traitors
+- Secert Agencies: US Intelligence in a Hostile World -->  secert agencies us intelligence in a hostile world
+- Counterterrorism: Bridging Operations & Theory -->  counterterrorism bridging operations  theory
+- The Black Swan: The Impact of the Highly Improbable by Nassim Nicholas Taleb -->  the black swan the impact of the highly improbable by nassim nicholas taleb
+- Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets -->  fooled by randomness the hidden role of chance in life and in the markets
+- Paradoxes of Strategic Intelligence Essays in Honor of Michael I. Handel -->  paradoxes of strategic intelligence essays in honor of michael i handel
+- Intelligence and the National Security Strategist: Enduring Issues and Challenges -->  intelligence and the national security strategist enduring issues and challenges
+- Handbook of Warning Intelligence: Assessing the Threat to National Security -->  handbook of warning intelligence assessing the threat to national security
+- Ghost Fleet -->  ghost fleet
+- Wired for War by P.W. Singer -->  wired for war by pw singer
+- Future Crimes by Marc Goodman -->  future crimes by marc goodman
+- Brave New World by Aldous Huxley -->  brave new world by aldous huxley
+- 1984 by George Orwell -->  1984 by george orwell
+- The Origins of the American Military Coup of 2012 -->  the origins of the american military coup of 2012
+- Intelligence Power in Peace and War -->  intelligence power in peace and war
+- War, Resistance and Intelligence: Essays in Honour of MRD Foot -->  war resistance and intelligence essays in honour of mrd foot
+- KGB: The Insider Story of Its Foreign Operations from Lenin to Gorbachev -->  kgb the insider story of its foreign operations from lenin to gorbachev
+- The Mitrokhin Archive -->  the mitrokhin archive
+- Ghost Wars by Steve Coll -->  ghost wars by steve coll
+- Charlie Wilson's War -->  charlie wilsons war
+- How Everything Became War and the Militayr Became Everything -->  how everything became war and the militayr became everything
+- S-2 In Action by Shipley Thomas -->  s2 in action by shipley thomas
+- The Great Leader and the Fighter Pilot -->  the great leader and the fighter pilot
+- The Triple Agent: The al-Qaeda Mole who Infiltrated the CIA -->  the triple agent the alqaeda mole who infiltrated the cia
+- The Ugly American -->  the ugly american
+- Influence: Science and Practice -->  influence science and practice
+- Swords Around a Throne -->  swords around a throne
+- The Ghosts of Cannae: Hannibal and the Darkest Hour of the Roman Republic -->  the ghosts of cannae hannibal and the darkest hour of the roman republic
+- Pearl Harbor: Warning and Decision -->  pearl harbor warning and decision
+- The Secret Sentry: The Untold History of the National Security Agency -->  the secret sentry the untold history of the national security agency
+- Once an Eagle -->  once an eagle
+- The Men, The Mission and Me: Lessons from a Former Delta Force Commander -->  the men the mission and me lessons from a former delta force commander
+- Slience was a Weapon -->  slience was a weapon
+- Front-line Intelligence -->  frontline intelligence
+- Team Yankee by Harold Coyle -->  team yankee by harold coyle
+- The Blind Leading the Blind: Soviet Advisors, Counter-Insurgency and Nation-Building in Afghanistan -->  the blind leading the blind soviet advisors counterinsurgency and nationbuilding in afghanistan
+- Arabian Knight: Colonel Bill Eddy USMC and the Rise of American Power in the Middle East -->  arabian knight colonel bill eddy usmc and the rise of american power in the middle east
+- Dark Territory: The Secret History of Cyber War by Fred Kaplan -->  dark territory the secret history of cyber war by fred kaplan
+- Conflict Analysis: Understanding Causes, Unlocking Solutions -->  conflict analysis understanding causes unlocking solutions
+- Sensemaking: A Structure for an Intelligence Revolution -->  sensemaking a structure for an intelligence revolution
+- Red Team: How to Succeed by Thinking like the Enemy -->  red team how to succeed by thinking like the enemy
+- Knowing One's Enemies: Intelligence Assessments before the Two World Wars -->  knowing ones enemies intelligence assessments before the two world wars
+- The Spycatcher Omnibus: The Spy and Counter-Spy Adventures -->  the spycatcher omnibus the spy and counterspy adventures
+- American Caesar: Douglas MacArthur 1880-1964 -->  american caesar douglas macarthur 18801964
+- From Ruins of Empire: The Revolt Against the West and Remaking of Asia -->  from ruins of empire the revolt against the west and remaking of asia
+- The Unraveling: High Hopes and Missed Opportunities in Iraq -->  the unraveling high hopes and missed opportunities in iraq
+- Black Flags: The Rise of ISIS -->  black flags the rise of isis
+- The Wrong Enemy: America in Afghanistan -->  the wrong enemy america in afghanistan
+- The Game of the Foxes -->  the game of the foxes
+- The Revenge of Georgraphy: What the Map Tells Us about Coming Conflicts and the Battle Against Fate -->  the revenge of georgraphy what the map tells us about coming conflicts and the battle against fate
+- War comes to Long An -->  war comes to long an
+- Sharpening the Combat Edge: The Use of Analysis to Reinforce Military Judgement -->  sharpening the combat edge the use of analysis to reinforce military judgement
+- Combat Intelligence -->  combat intelligence
+- War from the Ground Up: Twenty-First Century Combat as Politics -->  war from the ground up twentyfirst century combat as politics
+- Why Strategic Intelligence Analysis has Limited Influence on American Foreign Policy -->  why strategic intelligence analysis has limited influence on american foreign policy
+- The Lost Battle of Tet: The Breakout of 2/12th Cavalry at Hue -->  the lost battle of tet the breakout of 212th cavalry at hue
+- Disciple: The World War II Mission of the CIA Directors Who Fought for Wild Bill Donovan -->  disciple the world war ii mission of the cia directors who fought for wild bill donovan
+- The Kind of War -->  the kind of war
+- President's Secret Wars: CIA and Pentagon Covert Operations from World War II through the Persian Gulf -->  presidents secret wars cia and pentagon covert operations from world war ii through the persian gulf
+- Emotional Intelligence (Daniel Goleman) -->  emotional intelligence daniel goleman
+- The Nature of Human Intelligence -->  the nature of human intelligence
+- Drive: The Surprising Truth About What Motivates Us -->  drive the surprising truth about what motivates us
+- Everything is Fcuked: A Book About Hope -->  everything is fcuked a book about hope
+- Emotinoal Intelligence 2.0 -->  emotinoal intelligence 20
+- Emotional Intelligence Pocketbook -->  emotional intelligence pocketbook
+- EQ Applied: The Real-World Guide to Emotional Intelligence -->  eq applied the realworld guide to emotional intelligence
+- Consciousness Explained -->  consciousness explained
+- The Concept of Mind -->  the concept of mind
+- The Emotional Intelligence Activity Book: 50 Activities for Developing EQ at Work -->  the emotional intelligence activity book 50 activities for developing eq at work
+- A Practical Guide to Emotional Intelligence: Get Smart about Emotion -->  a practical guide to emotional intelligence get smart about emotion
+- Becoming a Resonant Leader: Develop Your Emotional Intelligence, Renew Your Relationships, Sustain Your Effectiveness -->  becoming a resonant leader develop your emotional intelligence renew your relationships sustain your effectiveness
+- Thinking, Fast and Slow by Daniel Kahneman -->  thinking fast and slow by daniel kahneman
+- Man's Search for Meaning -->  mans search for meaning
+- The Mismeasure of Man -->  the mismeasure of man
+- Moonwalking with Einstein -->  moonwalking with einstein
+- Mindset: The New Psychology -->  mindset the new psychology
+- The Architecture of the Mind -->  the architecture of the mind
+- You Are Not So Smart -->  you are not so smart
+- Quiet: The Power of Introverts in a World That Can't Stop Talking -->  quiet the power of introverts in a world that cant stop talking
+- Predictably Irrational -->  predictably irrational
+- Descartes' Error -->  descartes error
+- Emotional Agility: Get Unstuck, Embrace Change, and Thrive in Work and Life -->  emotional agility get unstuck embrace change and thrive in work and life
+- The Emotional Intelligence Quick Book -->  the emotional intelligence quick book
+- HBR Guide to Emotional Intelligence -->  hbr guide to emotional intelligence
+- Blink: The Power of Thinking Without Thinking -->  blink the power of thinking without thinking
+- The Mind's I -->  the minds i
+- Evolution of the Brain and Intelligence -->  evolution of the brain and intelligence
+- Emotional Intelligence: A 21-Day Step by Step Guide to Master Social Skills, Improve Your Relationships, and Boost your EQ -->  emotional intelligence a 21day step by step guide to master social skills improve your relationships and boost your eq
+- HBR's 10 Must Reads on Emotional Intelligence -->  hbrs 10 must reads on emotional intelligence
+- The Organization of Behaviour: A Neuropsychological Theory -->  the organization of behaviour a neuropsychological theory
+- The Animal Mind: An Introduction to the Philosophy of Animal Cognition -->  the animal mind an introduction to the philosophy of animal cognition
+- Mindset: The New Psychology of Success -->  mindset the new psychology of success
+- The Architecture of the Mind -->  the architecture of the mind
+- Are We Smart Enough to Know How Smart Animals Are? -->  are we smart enough to know how smart animals are
+- Psychology of Intelligence -->  psychology of intelligence
+- Psychology of Intelligence Analysis -->  psychology of intelligence analysis
+- Intelligence and How to Get It -->  intelligence and how to get it
+- Emotional Intelligence for Dummies -->  emotional intelligence for dummies
+- Primal Leadership -->  primal leadership
+- Raising An Emotionally Intelligent Child -->  raising an emotionally intelligent child
+- How to raise a Child with High EQ -->  how to raise a child with high eq
+- The Emotionally Intelligent Manager: How to Develop & Use the Four Key Emotional Skills of Leadership -->  the emotionally intelligent manager how to develop  use the four key emotional skills of leadership
+- The Principles of Psychology -->  the principles of psychology
+- The Emotional Lives of Animal -->  the emotional lives of animal
+- Quiet: The Power of Introverts in a World That Can't Stop Talking -->  quiet the power of introverts in a world that cant stop talking
+- The 7 Habits of Highly Effective People -->  the 7 habits of highly effective people
+- The Organized Mind: Thinking Straight in the Age of Information Overload -->  the organized mind thinking straight in the age of information overload
+- How to Analyze People -->  how to analyze people
+- Dark Psychology -->  dark psychology
+- Read People Like a Book -->  read people like a book
+- US Army Counterintelligence Handbook -->  us army counterintelligence handbook
+- Military Intelligence Satellite -->  military intelligence satellite
+- Genius Makers: The Mavericks Who Brought AI to Google, Facebook & the World -->  genius makers the mavericks who brought ai to google facebook  the world
+- This Book Will Make You Dangerous: The Irreverent Guide for Men -->  this book will make you dangerous the irreverent guide for men
+- Intelligence Operations: Understanding Data, Tools, People and Processes -->  intelligence operations understanding data tools people and processes
+- Chinese Intelligence Operations: Espionage Damage Assessment Branch -->  chinese intelligence operations espionage damage assessment branch
+- Surprise, Kill, Vanish (Annie Jacobsen) -->  surprise kill vanish annie jacobsen
+- War, Strategy & Intelligence (Michael Handel) -->  war strategy  intelligence michael handel
+- Operation Paperclip: The Secret Intelligence Program to Bring Nazi Scientists to America -->  operation paperclip the secret intelligence program to bring nazi scientists to america
+- Mission France: The True History of the Women of SOE -->  mission france the true history of the women of soe
+- Paradoxes of Strategic Intelligence -->  paradoxes of strategic intelligence
+- Intelligence and National Security Strategist -->  intelligence and national security strategist
+- Secret Agencies -->  secret agencies
+- The Game of the Foxes -->  the game of the foxes
+- Stars & Spies -->  stars  spies
+- Advanced Criminal Investigation & Intelligence Operations (Robert Girod) -->  advanced criminal investigation  intelligence operations robert girod
+- British Military Intelligence in The Crimean War (1854-56) -->  british military intelligence in the crimean war 185456
+- Intelligence and Imperial Defence -->  intelligence and imperial defence
+- Spies and Lies (Alex Joske) -->  spies and lies alex joske
+- Secrets of the Cold War, Espionage and Intelligence Operations - From Both Sides of the Iron Curtain -->  secrets of the cold war espionage and intelligence operations  from both sides of the iron curtain
+- Secrets & Lies Military Intelligence -->  secrets  lies military intelligence
+- Flawed Patriot: The Rise & Fall of CIA Legend Bill Harvey -->  flawed patriot the rise  fall of cia legend bill harvey
+- Canadian Military Intelligence -->  canadian military intelligence
+- Black Mass (John Gray) -->  black mass john gray
+- Travels into Bokhara -->  travels into bokhara
+- The Billion Dollar Spy (David Hoffman) -->  the billion dollar spy david hoffman
+- The Recruiter: Spying and the Lost Art of American Intelligence -->  the recruiter spying and the lost art of american intelligence
+- Espionage A Concise History -->  espionage a concise history
+- Special Operations Executive Manual - How to be an Agent in Occupied Europe -->  special operations executive manual  how to be an agent in occupied europe
+- FSB & Its Secrets -->  fsb  its secrets
+- Truth and Deception -->  truth and deception
+- Chinese Spies from Chairman Mao to Xi Jinping -->  chinese spies from chairman mao to xi jinping
+- The Devil's Chessboard -->  the devils chessboard
+- Operation Pineapple Express -->  operation pineapple express
+- Spies (Calder Walton): The Epic Intelligence War between East & West -->  spies calder walton the epic intelligence war between east  west
+- Sigint: The Secret History of Signal Intelligence in the World Wars -->  sigint the secret history of signal intelligence in the world wars
+- Red Notice (Bill Browder) -->  red notice bill browder
+- What Every Body is Saying (Joe Navarro) -->  what every body is saying joe navarro
+- The Dictionary of Body Language (Joe Navarro) -->  the dictionary of body language joe navarro
+- Gray Day (Eric O'Neill) -->  gray day eric oneill
+- Let Bhutto Eat Grass -->  let bhutto eat grass
+- CIA Lock Picking: Field Manual -->  cia lock picking field manual
+- Official CIA Manual -->  official cia manual
+- Class 11: Inside the CIA's First Post 9/11 Spy Class -->  class 11 inside the cias first post 911 spy class
+- US Army & CIA Interrogation Manual -->  us army  cia interrogation manual
+- Agent of Influence -->  agent of influence
+- In The Enemy's House -->  in the enemys house
+- The Charm School -->  the charm school
+- The Moscow Rules -->  the moscow rules
+- The Soviet Spies: The Story of Russian Espionage in North America -->  the soviet spies the story of russian espionage in north america
+- Red Sparrow -->  red sparrow
+- The Secret That We Kept (Lara Prescott) -->  the secret that we kept lara prescott
+- Ageny Sonya: Moscow's Most Daring Wartime Spy -->  ageny sonya moscows most daring wartime spy
+- The Big Book of Espionage -->  the big book of espionage
+- The Art of Psychological Warfare -->  the art of psychological warfare
+- Understanding Modern Warfare -->  understanding modern warfare
+- The Art of Logival Thinking or The Law of Reasoning -->  the art of logival thinking or the law of reasoning
+- Operation Trojan Horse -->  operation trojan horse
+- Digital Fortress (Dan Brown) -->  digital fortress dan brown
+- Industrial Espionage: Developing a Counter Espionage Program -->  industrial espionage developing a counter espionage program
+- Ultimate Spy (Keith Melton) -->  ultimate spy keith melton
+- SPY STORIES: Inside the Secret World of R.A.W & I.S.I -->  spy stories inside the secret world of raw  isi
+- The Anatomy of a Spy by Michael Smith -->  the anatomy of a spy by michael smith
+- The Scientist and the Spy: A True Story of China, the FBI and Industrial Espionage -->  the scientist and the spy a true story of china the fbi and industrial espionage
+- The Psychology of Spies and Spying -->  the psychology of spies and spying
+- The Official Spy's Handbook -->  the official spys handbook
+- Spy 101 Intro to Espionage -->  spy 101 intro to espionage
+- Spy System in Ancient India: From Vedic Period to Gupta Period -->  spy system in ancient india from vedic period to gupta period
+- A Spy For All Seasons: My Life in the CIA -->  a spy for all seasons my life in the cia
+- The Profession of Arms (Gen Sir John Hackett) -->  the profession of arms gen sir john hackett
+- Essentials of Military Knowledge (Maj Gen DK Palit) -->  essentials of military knowledge maj gen dk palit
+- The Art of War - Sun Tzu -->  the art of war  sun tzu
+- Defence of Duffers Drift (Ernst Swanton) -->  defence of duffers drift ernst swanton
+- The Next World War - John Adams -->  the next world war  john adams
+- Blue Helmets: The Strategy of UN Military Operations (Hillen John) -->  blue helmets the strategy of un military operations hillen john
+- City Fights: Select Histories of Urban Combat from World War II to Vietnam -->  city fights select histories of urban combat from world war ii to vietnam
+- People's War, People's Army (Gen VO Nguyen Giap) -->  peoples war peoples army gen vo nguyen giap
+- Gureilla Warfare: Irregular Warfare in the Twentieth Century -->  gureilla warfare irregular warfare in the twentieth century
+- The Pakistan Army (Stephen Cohen) -->  the pakistan army stephen cohen
+- A History of the Modern Chinese Army (Xiaoping Li) -->  a history of the modern chinese army xiaoping li
+- History of the Second World War -->  history of the second world war
+- The Indian Army After Independence -->  the indian army after independence
+- Slender Was the Thread (LP Sen) -->  slender was the thread lp sen
+- The Battle of Dogra (Brig. Desmond E Hayde) -->  the battle of dogra brig desmond e hayde
+- A Ridge Too Far - War in the Kargil Heights: 1999 (Capt Amarinder Singh) -->  a ridge too far  war in the kargil heights 1999 capt amarinder singh
+- Infantry In India (Lt.Gen V R Raghavan) -->  infantry in india ltgen v r raghavan
+- The Official History of J&K Operations (B. Prasad) -->  the official history of jk operations b prasad
+- Siachen: Conflict Without End (Lt. Gen VR Raghavan) -->  siachen conflict without end lt gen vr raghavan
+- Assignment Jaffna (SC Sardesh Pande) -->  assignment jaffna sc sardesh pande
+- India's China War (Neville Maxwell) -->  indias china war neville maxwell
+- The Lighting Campaign (Maj.Gen. DK Palit) -->  the lighting campaign majgen dk palit
+- Pork Chop Hill (SLA Marshal) -->  pork chop hill sla marshal
+- Patrol (Fred Majdalany) -->  patrol fred majdalany
+- Platoon Leader (James Mc Donough) -->  platoon leader james mc donough
+- On Moral Courage (Compton Mackenzie) -->  on moral courage compton mackenzie
+- Follow Me II (Maj.Gen Aubrey) -->  follow me ii majgen aubrey
+- Small Unit Leadership: A Commonsense Approach (Dandridge M Malone) -->  small unit leadership a commonsense approach dandridge m malone
+- Thinemaya of India (Humphrey Evans) -->  thinemaya of india humphrey evans
+- Field Marshal Sam Manekshaw: Soldiering with Diginity (Deepinder Singh) -->  field marshal sam manekshaw soldiering with diginity deepinder singh
+- Rommel as a Military Commander (Ronald Lewin) -->  rommel as a military commander ronald lewin
+- Slim as Military Commander (Geoffrey Evans) -->  slim as military commander geoffrey evans
+- The Officer as a Leader (SLA Marshall) -->  the officer as a leader sla marshall
+- Demystifying Military Leadership (Lt. Gen HB Kala) -->  demystifying military leadership lt gen hb kala
+- Panzer Leader (Guderian) -->  panzer leader guderian
+- Napolean (Evil Ludwig) -->  napolean evil ludwig
+- Customs and Services of the Army (HR Roach) -->  customs and services of the army hr roach
+- Glimpes of World History (J Nehru) -->  glimpes of world history j nehru
+- Serious Creativity (Edward De Bono) -->  serious creativity edward de bono
+- Battles that Changed History: An Encyclopedia of World Conflict -->  battles that changed history an encyclopedia of world conflict
+- Strategy, The Indirect Approach (BH Liddell Hart) -->  strategy the indirect approach bh liddell hart
+- On War - Von Clausewitz -->  on war  von clausewitz
+- The Art of War (Jomini) -->  the art of war jomini
+- Principles of War (Carl von Clausewitz) -->  principles of war carl von clausewitz
+- The Art of Maneouvre (Robert Leonard) -->  the art of maneouvre robert leonard
+- Arthashastra (Kautilya) -->  arthashastra kautilya
+- Nuclear Doctrine for India (Raja Menon) -->  nuclear doctrine for india raja menon
+- The Art of War in World History (Chaliand, Gerard) -->  the art of war in world history chaliand gerard
+- The Making of Strategy - Rulers, States and War (William Murray, A Bernstein & MacGregor Knox) -->  the making of strategy  rulers states and war william murray a bernstein  macgregor knox
+- Roots of Strategy (Phillips) -->  roots of strategy phillips
+- Prepare or Perish (Gen KV Krishna Rao) -->  prepare or perish gen kv krishna rao
+- Amphibious Warfare: Strategy and Tactics, The Theory and Practice of Amphibious Operations in the 20th Century (Ian Speller) -->  amphibious warfare strategy and tactics the theory and practice of amphibious operations in the 20th century ian speller
+- Air Power and Joint Operations (Air Commodore Jasjit Singh) -->  air power and joint operations air commodore jasjit singh
+- Allvin & Heidi Toffler (War and Anti War) -->  allvin  heidi toffler war and anti war
+- The 33 Strategies of War (Reobert Greene) -->  the 33 strategies of war reobert greene
+- The Bear Trap (Brig. Mohd. Yousaf & Major Mark Atkin) -->  the bear trap brig mohd yousaf  major mark atkin
+- North African Campaign: 1940-43 Liddell Hart) -->  north african campaign 194043 liddell hart
+- Barbarossa (Alan Clark) -->  barbarossa alan clark
+- Defeat Into Victory (Fd Marshall William Slim) -->  defeat into victory fd marshall william slim
+- No Victor No Vanquished - The Yom Kippur War (Edgar O'Balance) -->  no victor no vanquished  the yom kippur war edgar obalance
+- War in the Gulf: Lessons for the Third World (Brig VK Nair) -->  war in the gulf lessons for the third world brig vk nair
+- History of First World War (Liddell Hart) -->  history of first world war liddell hart
+- History of the Second World War 1939-45 (Maj Gen JFC Fuller) -->  history of the second world war 193945 maj gen jfc fuller
+- War Dispatches (Lt. Gen Harbaksh Singh) -->  war dispatches lt gen harbaksh singh
+- The Bear Went over the Mountain: Soviet Combat Tactics in Afghanistan (Grau Lester W) -->  the bear went over the mountain soviet combat tactics in afghanistan grau lester w
+- The Past as Prologue: The Importance of History to the Military Profession (Williamson Murray & Richard Sinnreich) -->  the past as prologue the importance of history to the military profession williamson murray  richard sinnreich
+- The Official History of J&K Operations 1947-48 (B Prasad) -->  the official history of jk operations 194748 b prasad
+- Himalayan Blunder (Brig JP Dalvi) -->  himalayan blunder brig jp dalvi
+- Acts Of War: The Behavior Of Men In Battle - Richard Holmes -->  acts of war the behavior of men in battle  richard holmes
+- The Last Hundred Yards: The NCO's Contribution to Warfare - Poole, H.J -->  the last hundred yards the ncos contribution to warfare  poole hj
+- Demystifying Military Leadership â€“ Lt Gen HB Kala, PVSM,AVSM,SC -->  demystifying military leadership â lt gen hb kala pvsmavsmsc
+- Men Against Fire: The Problem of Battle Command in Future War -Marshall, S.L.A -->  men against fire the problem of battle command in future war marshall sla
+- In the Line of Duty : A Solider Remembers â€“ Lt Gen Harbaksh Singh (Page-12-16) -->  in the line of duty  a solider remembers â lt gen harbaksh singh page1216
+- The Brave: Param Vir Chakra Stories by Rachna Bisht Rawat -->  the brave param vir chakra stories by rachna bisht rawat
+- Shoot Dive Fly by Rachna Bisht Rawat -->  shoot dive fly by rachna bisht rawat
+- Indiaâ€™s Most Fearless: Part 1 & 2 by Shiv Aroor and Rahul Singh -->  indiaâs most fearless part 1  2 by shiv aroor and rahul singh
+- Kargil: From Surprise to Victory by Gen V.P. Malik -->  kargil from surprise to victory by gen vp malik
+- Life in the NDA by Col Mir Ahmed Shah -->  life in the nda by col mir ahmed shah
+- Wings of Joy by A.V. Vaidya -->  wings of joy by av vaidya
+- Boots, Belts, Berets by Tanushree Podder -->  boots belts berets by tanushree podder
+- Bose: The Untold Story of an Incovenient Nationalist -->  bose the untold story of an incovenient nationalist
+- The Arthashastra -->  the arthashastra
+- Full Spectrum: India's War (1972-2020) -->  full spectrum indias war 19722020
+- 1971: A Global History of the Creation of Bangladesh -->  1971 a global history of the creation of bangladesh
+- 1962: The War That Wasn't -->  1962 the war that wasnt
+- Road of Bones: The Siege Of Kohima 1944 The Epic Story of the Last Great Stand of Empire -->  road of bones the siege of kohima 1944 the epic story of the last great stand of empire
